@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m U3.<br>👀 I’m interested in AI and Embedded Systems.<br>🌱 I’m currently learning Embedded Systems.<br>🤓 I like to help people and to get more knowledge. <br>📫 You can contact me on Discord a_u3.<br><br>
+👋 Hi, I’m U3.<br>👀 I’m interested in AI .<br>🌱 I’m currently learning Web Dev.<br>🤓 I like to help people and to get more knowledge. <br>📫 You can contact me on Discord a_u3.<br><br>
 
 
 ## 🌐 Socials:
