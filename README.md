@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ahmed.<br>👀 I’m interested in AI .<br>🌱 I’m currently learning Web Dev.<br>🤓 I like to help people and to get more knowledge. <br>📫 You can contact me on Discord a_u3.<br><br>
+👋 Hi, I’m Ahmed.<br>👀 I’m interested in AI .<br>🌱 I’m currently learning Web Dev.<br>🤓 I like to help people and to get more knowledge. <br<br>
 
 
 ## 🌐 Socials:
